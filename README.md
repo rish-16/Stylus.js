@@ -29,7 +29,7 @@ element.addStyle({
     backgroundColour: 'blue'
 });
 ```
-
+<br>
 #### Getting the property of another element
 The `style()` method returns the value of property stated. This is useful when you want to update the styles of an element based on the changes made to another without rewriting the code or when styling an element based on the properties of another.
 
@@ -46,10 +46,7 @@ secondElement.addStyle({
     height: '100px'
 })
 ```
-
 <br>
-<br>
-
 #### Inheriting the properties of another element
 The `inherit()` method retrieves the properties of an element and applies it to the one in question.
 
