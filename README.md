@@ -1,5 +1,5 @@
 # Stylus.js
-CSS is fun. However, it's neither dynamic nor is self-updating when values change across the document. When a property value is changed in one location, you need change it everywhere else in the stylesheet file.
+CSS is fun. However, it's neither dynamic nor self-updating when values change across the document. When a property value is changed in one location, you need change it everywhere else in the stylesheet file.
 <br>
 <br>
 Introducing **Stylus.js**: a CSS substitute fully written in JavaScript to supercharge the process of styling elements.
