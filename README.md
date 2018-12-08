@@ -13,7 +13,7 @@ The Stylus methods and functions are distributed via CDN:
 <script src="https://rish-16.github.io/rish-cache/javascript/stylus.js" charset="utf-8"></script>
 ```
 
-Remember to place this above your `styles.js` file.
+Remember to place this before your `styles.js` file.
 
 ```html
 <head>
