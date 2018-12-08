@@ -29,10 +29,10 @@ Remember to place this before your `styles.js` file.
 
 ## Usage
 
-#### Adding styles to your element
+#### Adding styles to an element
 To style an element, create a new instantiation of the `Stylus()` class that takes in a parameter of an elements name. The parameter can be a `class` or `id` name.
 
-You can use the `addStyle()` method on your element that takes in a dictionary containing its style properties.
+Use the `addStyle()` method that takes in a dictionary containing the style properties.
 
 ```javascript
 const element = new Stylus('#element');
