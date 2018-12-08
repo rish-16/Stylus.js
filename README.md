@@ -21,7 +21,7 @@ Add the `stylus.js` file in the `head` tag of your HTML. Remember to place this 
 ## Usage
 
 #### Adding styles to your element
-To style an element, create a new instantiation of the `Stylus()` class that takes in a parameter of an elements name. The parameter can be an elements `class` or `id`.
+To style an element, create a new instantiation of the `Stylus()` class that takes in a parameter of an elements name. The parameter can be a `class` or `id` name.
 
 You can use the `addStyle()` method on your element that takes in a dictionary containing its style properties.
 
