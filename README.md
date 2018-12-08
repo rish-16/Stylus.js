@@ -9,7 +9,9 @@ Add the `stylus.js` file in the `head` tag of your HTML. Remember to place this 
 ```html
 <head>
     ...
+    <!-- Place the 'stylus.js' file above your styles.js file -->
     <script src="stylus.js"></script>
+    <script src="styles.js"></script>
     ...
 </head>
 ```
