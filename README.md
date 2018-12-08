@@ -4,7 +4,8 @@ An open-source JavaScript substitute to CSS to supercharge your element styles.
 ---
 
 ## Installation
-Add the `stylus.js` file in the `head` tag of your HTML
+Add the `stylus.js` file in the `head` tag of your HTML. Remember to place this above your styles file.
+
 ```html
 <head>
     ...
