@@ -65,7 +65,7 @@ secondElement.addStyle({
 <br>
 
 #### Inheriting the properties of another element
-The `inherit()` method retrieves the properties of an element and applies it to another
+The `inherit()` method retrieves the properties of an element and applies it to another.
 
 There are two types of options to the `inherit()` method:
 
