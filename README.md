@@ -7,13 +7,19 @@ Introducing **Stylus.js**: a CSS substitute fully written in JavaScript to super
 ---
 
 ## Installation
-Add the `stylus.js` file in the `head` tag of your HTML. Remember to place this above your styles file.
+The Stylus methods and functions are distributed via CDN:
+
+```html
+<script src="https://rish-16.github.io/rish-cache/javascript/stylus.js" charset="utf-8"></script>
+```
+
+Remember to place this above your `styles.js` file.
 
 ```html
 <head>
     ...
-    <!-- Place the 'stylus.js' file above your styles.js file -->
-    <script src="stylus.js"></script>
+    <title>My Demo</title>
+    <script src="https://rish-16.github.io/rish-cache/javascript/stylus.js" charset="utf-8"></script>
     <script src="styles.js"></script>
     ...
 </head>
