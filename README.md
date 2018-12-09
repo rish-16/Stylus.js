@@ -10,7 +10,7 @@ Introducing **Stylus.js**: a CSS substitute fully written in JavaScript to super
 The Stylus methods and functions are distributed via CDN:
 
 ```html
-<script src="https://rish-16.github.io/rish-cache/javascript/stylus.js" charset="utf-8"></script>
+<script src="https://rish-16.github.io/rish-cache/javascript/stylus.min.js" charset="utf-8"></script>
 ```
 
 Remember to place this before your `styles.js` file.
@@ -19,7 +19,7 @@ Remember to place this before your `styles.js` file.
 <head>
     ...
     <title>My Demo</title>
-    <script src="https://rish-16.github.io/rish-cache/javascript/stylus.js" charset="utf-8"></script>
+    <script src="https://rish-16.github.io/rish-cache/javascript/stylus.min.js" charset="utf-8"></script>
     <script src="styles.js"></script>
     ...
 </head>
