@@ -30,7 +30,7 @@ Stylus.prototype.inherit = function(copyElement, property='all') {
         for (var i = 0; i < elementStyles.length; i++) {
             var prop = elementStyles[i]
             this.element.css(prop, elementStyles[prop])
-        }        
+        }
     } else {
         // Inherit specific CSS property from copyElement
         this.element.css(property, elementStyles[property])
